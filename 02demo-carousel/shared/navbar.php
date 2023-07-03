@@ -1,15 +1,15 @@
-<!--Pagina php que contiene la conexión a la base de datos-->
+<!-- Adicionar la pagina php que contiene la conexión a la base de datos bootstrap_demo -->
 <?php require 'config/dbconfig.php'; ?>
 
 <!--
-  Inicio del desarrollo del componente navbar
+    Inicio del desarrollo del componente navbar de tipo fixed-top
 -->
-<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <div class="container-fluid">
       <!--
       Texto que puede ser remplaza por el logo de la página o sitio web
       -->
-      <a class="navbar-brand" href=".">01 demo navbar</a>
+      <a class="navbar-brand" href=".">02 demo carousel</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" 
               aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
