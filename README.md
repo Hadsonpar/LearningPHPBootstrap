@@ -8,4 +8,5 @@ Repositorio con fines práctico para el aprendizaje de los principales **compone
 4. Visual Studio Code.
 
 ## Lista de tutoriales publicados:
-1. Bootstrap: Navbar dinámico con PHP y MariaDB
+1. [Bootstrap: Navbar dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/06/bootstrap-navbar-dinamico-con-php-y.html)
+2. [Bootstrap: Carousel dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-carousel-dinamico-con-php-y.html)
