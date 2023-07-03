@@ -7,5 +7,5 @@ Repositorio con fines práctico para el aprendizaje de los principales **compone
 3. MariaDB y PHPMyAdmin.
 4. Visual Studio Code.
 
-## Lista de tutorial publicados:
+## Lista de tutoriales publicados:
 1. Bootstrap: Navbar dinámico con PHP y MariaDB
