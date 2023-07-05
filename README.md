@@ -10,3 +10,4 @@ Repositorio con fines práctico para el aprendizaje de los principales **compone
 ## Lista de tutoriales publicados:
 1. [Bootstrap: Navbar dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/06/bootstrap-navbar-dinamico-con-php-y.html)
 2. [Bootstrap: Carousel dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-carousel-dinamico-con-php-y.html)
+3. [Bootstrap: Placeholder dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-placeholder-dinamico-con-php.html)
