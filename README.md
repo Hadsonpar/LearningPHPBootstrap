@@ -7,7 +7,12 @@ Repositorio con fines práctico para el aprendizaje de los principales **compone
 3. MariaDB y PHPMyAdmin.
 4. Visual Studio Code.
 
-## Lista de tutoriales publicados:
+# Lista de tutoriales publicados:
+## Capitulo Uno:
 1. [Bootstrap: Navbar dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/06/bootstrap-navbar-dinamico-con-php-y.html)
 2. [Bootstrap: Carousel dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-carousel-dinamico-con-php-y.html)
 3. [Bootstrap: Placeholder dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-placeholder-dinamico-con-php.html)
+4. [Bootstrap: Jumbotron dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-jumbotron-dinamico-con-php-y.html)
+5. [Bootstrap: Accordion dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-accordion-dinamico-con-php-y.html)
+## Capitulo Dos:
+6. [Bootstrap: List Group dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-list-group-dinamico-con-php-y.html)
