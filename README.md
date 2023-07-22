@@ -15,4 +15,5 @@ Repositorio con fines práctico para el aprendizaje de los principales **compone
 4. [Bootstrap: Jumbotron dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-jumbotron-dinamico-con-php-y.html)
 5. [Bootstrap: Accordion dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-accordion-dinamico-con-php-y.html)
 ## Capitulo Dos:
-6. [Bootstrap: List Group dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-list-group-dinamico-con-php-y.html)
+1. [Bootstrap: List Group dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-list-group-dinamico-con-php-y.html)
+2. [Bootstrap: Footer dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-footer-dinamico-con-php-y.html)
