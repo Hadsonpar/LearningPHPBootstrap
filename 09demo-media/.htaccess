@@ -1,0 +1,9 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule ^home/?$		index.php       [NC,L]
+RewriteRule ^services/?$	services.php    [NC,L]
+RewriteRule ^contact/?$		contact.php     [NC,L]
+
+RewriteRule ^pages/web-development?$		pages/web-development.php     	[NC,L]
+RewriteRule ^pages/mobile-development?$		pages/mobile-development.php    [NC,L]
+RewriteRule ^pages/it-consulting?$			pages/it-consulting.php     	[NC,L]
