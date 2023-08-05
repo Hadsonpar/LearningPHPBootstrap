@@ -18,5 +18,6 @@ Repositorio con fines práctico para el aprendizaje de los principales **compone
 ## Capitulo Dos:
 1. [Bootstrap: List Group dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-list-group-dinamico-con-php-y.html)
 2. [Bootstrap: Footer dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-footer-dinamico-con-php-y.html)
-1. [Bootstrap: HTML section dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-html-section-dinamico-con-php.html)
-2. [Bootstrap: CSS @media query](http://blog.hadsonpar.com/2023/07/bootstrap-css-media-query.html)
+3. [Bootstrap: HTML section dinámico con PHP y MariaDB](http://blog.hadsonpar.com/2023/07/bootstrap-html-section-dinamico-con-php.html)
+4. [Bootstrap: CSS @media query](http://blog.hadsonpar.com/2023/07/bootstrap-css-media-query.html)
+5. [Integrando TypewriterJS a nuestra aplicación web](http://blog.hadsonpar.com/2023/08/bootstrap-integrando-typewriterjs.html)
